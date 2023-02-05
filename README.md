@@ -1,4 +1,4 @@
-<h1 align="center"><img width="400" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyvIZJOC7TGyMdSj4yjCGqmgdIenx-KWxrgVOL8xFpWP3kTlTL6C0TV2zkiyMrlCF7GE&usqp=CAU">   I'm Ruth Moraa</h1>
+<h1 align="center"><img width="400" src= "[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyvIZJOC7TGyMdSj4yjCGqmgdIenx-KWxrgVOL8xFpWP3kTlTL6C0TV2zkiyMrlCF7GE&usqp=CAU](https://mcdn.wallpapersafari.com/medium/9/90/kvlwRx.jpg)">   I'm Ruth Moraa</h1>
 
 
 <h3 align="center">A passionate web developer from Kenya</h3>

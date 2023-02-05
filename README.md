@@ -1,4 +1,5 @@
-<h1 align="center"><img width="1000" src= "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">   I'm Ruth Moraa</h1>
+<h1 align="center"><img width="400" src= "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"> Hello <img width ="30"src = "https://user-images.githubusercontent.com/99640531/216810323-63ad7c8b-9090-45ae-b3a7-780c20240a42.png"
+   I'm Ruth Moraa</h1>
 
 
 <h3 align="center">A passionate web developer from Kenya</h3>

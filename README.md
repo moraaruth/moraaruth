@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate web developer from Kenya</h3>
 
-- 🌱 I’m currently learning **AWS Cloud Practitioner**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **React, Javascript, Ruby on Rails**
 

@@ -4,9 +4,9 @@
 
 <h3 align="center">A passionate web developer from Kenya</h3>
 
-- 🌱 I’m currently learning **Cloud computing**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React, Javascript, Ruby on Rails**
+- 💬 Ask me about **Reactjs, Javascript, Ruby on Rails**
 
 - 📫 How to reach me **moraar37@gmail.com**
 

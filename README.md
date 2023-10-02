@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **moraar37@gmail.com**
 
-- ⚡ Fun fact **The Moon actually has Moonquakes**
+
 
 
 <p align="left">

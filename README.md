@@ -2,11 +2,11 @@
    I'm Ruth Moraa</h1>
 
 
-<h3 align="center">A passionate Frontend developer from Kenya</h3>
+<h3 align="center">A passionate Fullstack developer from Kenya</h3>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Spring boot**
 
-- 💬 Ask me about **Reactjs, Javascript, Ruby on Rails**
+- 💬 Ask me about **Reactjs, Javascript, GrapgQL, Nextjs,Expressjs, Java, Ruby on Rails**
 
 - 📫 How to reach me **iammoraaruth@gmail.com**
 

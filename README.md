@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 💬 Ask me about **Reactjs, Javascript, GrapgQL, Nextjs, Express, Java, Ruby on Rails**
+- 💬 Ask me about **Reactjs, Javascript, Typescript, GrapgQL, Nextjs, Express, Java, Ruby on Rails**
 
 - 📫 How to reach me **iammoraaruth@gmail.com**
 

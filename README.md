@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Reactjs, Javascript, Typescript, GrapgQL, Nextjs, Express, Java, Ruby on Rails**
 
-- 📫 How to reach me **iammoraaruth@gmail.com**
+- 📫 How to reach me **moraacodes@gmail.com**
 
 
 

@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Fullstack developer from Kenya</h3>
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **AWS, Linux and Bash**
 
 - 💬 Ask me about **Reactjs, Javascript, Typescript, GrapgQL, Nextjs, Express, Java, Ruby on Rails**
 

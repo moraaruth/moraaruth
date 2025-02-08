@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **AWS, Linux and Bash**
 
-- 💬 Ask me about **Reactjs, Javascript, Typescript, GrapgQL, Nextjs, Express, Java, Ruby on Rails**
+- 💬 Ask me about **Reactjs, Javascript, Typescript, GrapgQL, Nextjs, Express, Java, Ruby on Rails, Python, PHP**
 
 - 📫 How to reach me **moraacodes@gmail.com**
 
